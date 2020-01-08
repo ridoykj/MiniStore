@@ -1,7 +1,4 @@
 # MiniStore
-<br>
-The setup >> Pro directory
-<br>
 ![](PreView/1.PNG)
 <br>
 ![](PreView/2.PNG)
